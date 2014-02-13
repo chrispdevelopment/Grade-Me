@@ -1,0 +1,187 @@
+﻿body
+{
+	background-color:#F0F8FF;
+}
+
+td
+{
+	padding:4px;
+	height:30px
+	
+}
+
+tr:hover
+{
+	background-color:#dbdeff;
+}
+
+#wrapper
+{
+	
+}
+
+#container
+{
+	background-color:white;
+	width:1184px;
+	min-height:600px;
+	text-align:left;
+	margin:0 auto;
+}
+
+#logo
+{
+	background-image:url('../images/header.png');
+	font:20px;
+	text-align:center;
+	vertical-align:middle;
+	width:100%;
+	height:223px;
+}
+
+#menu
+{
+	background-image:url('../images/menu.png');
+	text-align:left;
+	width:100%;
+	height:69px;
+}
+
+#leftpane
+{
+	text-align:left;
+	width:249px;
+	min-height:400px;
+	float:left;
+	padding-bottom: 3000px;
+	margin-bottom: -3000px;
+	margin-right: 3px;
+	margin-left: 13px;
+}
+
+#leftPaneContent
+{
+
+	
+}
+
+#leftPaneContentText
+{
+	background-image:url('../images/left_menu_stretcher.png');
+	min-height:300px;
+	background-repeat:repeat-y;
+	padding-top:5px;
+	padding-left:20px;
+}
+
+#leftPaneContentBottom
+{
+	background-image:url('../images/left_menu_bottom.png');
+	background-repeat:no-repeat;
+	height:62px ;
+	width:249px ;
+}
+
+#rightpane
+{
+	text-align:left;
+	width:919px;
+	min-height:400px;
+	float:left;
+	clear:right;
+	padding-bottom: 3000px;
+	margin-bottom: -3000px;
+}
+
+#content
+{
+	background-image:url('../images/content_background.png');
+	min-height:400px;
+	overflow: hidden;
+}
+
+#contentTitle
+{
+	background-image:url('../images/content_title.png');
+	background-repeat:no-repeat;
+	height:131px;
+}
+
+#contentTitleText
+{
+	padding:50px 0px 0px 20px;
+}
+
+#contentText
+{
+	background-image:url('../images/content_stretcher.png');
+	background-repeat:repeat-y;
+	width:877px;
+	min-height:200px;
+	margin-left: 5px;
+}
+
+#contentTextInner
+{
+	width:860px;
+	padding:10px 0px 0px 10px;
+}
+
+#contentBottom
+{
+	background-image:url('../images/content_bottom.png');
+	background-repeat:no-repeat;
+	width:877px;
+	height:35px;
+	margin-left: 5px;
+}
+
+#footer
+{
+	background-image:url('../images/footer.png');
+	text-align:left;
+	width:100%;
+	height:24px;
+	clear:both;
+}
+
+#footerContent
+{
+	text-align: center;
+}
+
+#menubox
+{
+	float:left;
+	padding-left:20px;
+	padding-top:20px;
+}
+
+#overflow
+{
+	min-height:400px;
+	overflow:auto;
+}
+
+#stats
+{
+	width:874px;
+}
+
+#subsidiaryStats
+{
+	margin-top:10px;
+	clear:right;
+}
+
+#extendedStats
+{
+	clear:left;
+	margin-top:10px;
+}
+
+#statBox
+{
+	float:left;
+	margin-right:40px;
+}
